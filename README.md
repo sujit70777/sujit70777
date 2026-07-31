@@ -1,230 +1,81 @@
 <div align="center">
 
-# 👋 Hi, I'm Ehsanur Rahman
+# Ehsanur Rahman
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Senior+Mobile+App+Developer;Flutter+%7C+Android+%7C+iOS;Clean+Architecture+Enthusiast;Building+Production+Ready+Mobile+Apps;Open+to+Remote+Opportunities" />
+### Senior Mobile App Developer — Flutter · Android · iOS
 
-<br>
+**9+ years shipping production mobile software · 50+ apps · 1M+ users**
 
-### 📱 Senior Mobile App Developer • Flutter • Android • iOS
-
-I build scalable, maintainable and production-ready mobile applications with a strong focus on architecture, performance, testing and user experience.
-
-<p>
-
-<a href="https://github.com/sujit70777">
-<img src="https://img.shields.io/badge/GitHub-sujit70777-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+[![Website](https://img.shields.io/badge/ehsanur.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://ehsanur.com)
+[![Email](https://img.shields.io/badge/Contact-000000?style=flat-square&logo=maildotru&logoColor=white)](mailto:you@ehsanur.com)
+[![Open to Remote](https://img.shields.io/badge/Open%20to-Remote%20Work-000000?style=flat-square)](https://ehsanur.com)
 
 </div>
 
----
+<br>
 
-# 🚀 About Me
+## About
 
-```text
-👨‍💻 Senior Mobile App Developer
-📱 Flutter Specialist
-🤖 Native Android (Kotlin / Java)
-🍎 Native iOS (Swift)
-🏗 Clean Architecture & SOLID
-🧪 Unit & Widget Testing
-☁ Firebase | REST APIs
-🚀 CI/CD & GitHub Actions
-🌍 Open to Remote Opportunities
-```
+I lead a mobile app team and have spent the better part of a decade building and shipping Flutter and native Android/iOS applications — from consumer apps with a million-plus combined users to internal enterprise tooling. I care about clean architecture, native platform integration (WidgetKit, App Intents, WorkManager), and the unglamorous work of getting apps *through* App Store and Play Store review, not just written.
 
----
+<br>
 
-# 💻 Tech Stack
-
-### Mobile
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,swift"/>
-
-</p>
-
-### Backend & Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=firebase,supabase,nodejs"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,xcode,postman"/>
-
-</p>
-
----
-
-# 🏗 Architecture & Engineering
-
-* ✅ Clean Architecture
-* ✅ Feature-first Modular Design
-* ✅ SOLID Principles
-* ✅ Repository Pattern
-* ✅ MVVM
-* ✅ Riverpod
-* ✅ Bloc
-* ✅ GetX
-* ✅ Dependency Injection
-* ✅ REST APIs
-* ✅ Firebase
-* ✅ Offline Storage (Hive / Isar / SQLite)
-* ✅ Authentication
-* ✅ Localization
-* ✅ Push Notifications
-* ✅ Stripe & In-App Purchases
-
----
-
-# 📱 Featured Projects
-
-### 🌙 Muslim Time Pro
-
-Production-ready Islamic application.
-
-**Features**
-
-* Prayer Times
-* Quran
-* Tasbih
-* Qibla
-* Notifications
-* Offline Support
-
-🔗 https://github.com/sujit70777
-
----
-
-### ⚡ Flutter Fabric
-
-Reusable Flutter package focused on clean APIs and developer experience.
-
----
-
-### 📦 Sharp Archive
-
-SMS backup and synchronization platform.
-
----
-
-### 🐍 Python Tutorials
-
-Educational application for learning Python.
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sujit70777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujit70777&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sujit70777&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujit70777&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sujit70777&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 🎯 What I Love Building
-
-* 📱 Production Flutter Applications
-* 📦 Flutter Packages
-* ⚙ Enterprise Mobile Apps
-* 🔥 Firebase Solutions
-* 📡 Offline-first Apps
-* 💳 Payment Integrations
-* 🔐 Authentication Systems
-* 🚀 High-performance UI
-* 🤖 AI-powered Mobile Apps
-
----
-
-# 📚 Currently Exploring
-
-* SwiftUI
-* Flutter Performance Optimization
-* AI Integration
-* Advanced CI/CD
-* Scalable Mobile Architecture
-* Modular Flutter Apps
-
----
-
-# 🤝 Let's Connect
-
-<p>
-
-<a href="https://github.com/sujit70777">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
+## Core Stack
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-*"Code is more than making software work—it's about building products that people enjoy using."*
+</div>
 
-**If you like my work, consider starring a repository.**
+<br>
+
+## Featured Work
+
+**Prayer & Lifestyle App — Hajj Guide, iOS Widgets, Localization**
+Built a comprehensive Hajj guide covering 14 countries with per-country detail and a multi-tab UI. Shipped a WidgetKit home-screen widget (small/medium/large) sharing live data with Flutter via App Group `UserDefaults`, kept in sync with an Android counterpart. Localized into Bengali and Arabic via ARB files.
+
+**Subscription Platform — StoreKit Reliability**
+Diagnosed and fixed IAP race conditions in an iOS subscription flow — StoreKit `pending`-status bugs, duplicate purchase persistence, and navigation-timing failures.
+
+**Fabric.js → Dart Canvas Package**
+Ported Fabric.js canvas functionality to a native Flutter package: object model, a `FabricController` with full undo/redo, and a brush system.
+
+**DND / Focus Automation System**
+Cross-platform automation built in Flutter, using Swift `AppIntent` for iOS Shortcuts integration and `WorkManager` on Android.
+
+**Server-Side WhatsApp Business Reporting**
+Designed a reporting pipeline on Supabase Edge Functions and cron jobs to work around iOS background-execution limits, plus explored WhatsApp OTP auth via Meta's Graph API as a Twilio alternative.
+
+**OMR Answer-Sheet Scanner** *(in progress)*
+Mobile app to scan and auto-grade printed OMR exam sheets — auto-alignment to a fixed sheet layout, continuous live scanning, per-student mark sheets.
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-ehsanur-rahman.vercel.app/api?username=sujit70777&show_icons=true&hide_border=true&theme=default&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-ehsanur-rahman.vercel.app/api/top-langs/?username=sujit70777&layout=compact&hide_border=true&theme=default&title_color=000000&text_color=333333&bg_color=ffffff" alt="Top Languages" width="40%" />
+
+</div>
+
+<br>
+
+## Get in Touch
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Portfolio-ehsanur.com-000000?style=flat-square)](https://ehsanur.com)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-000000?style=flat-square)](mailto:you@ehsanur.com)
+
+</div>
 
 </div>
