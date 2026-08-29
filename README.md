@@ -64,7 +64,7 @@ Mobile app to scan and auto-grade printed OMR exam sheets — auto-alignment to 
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Portfolio-ehsanur.com-000000?style=flat-square)](https://ehsanur.com)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-000000?style=flat-square)](mailto:you@ehsanur.com)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-000000?style=flat-square)](mailto:mail@ehsanur.com)
 
 </div>
 
