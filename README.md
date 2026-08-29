@@ -58,16 +58,6 @@ Mobile app to scan and auto-grade printed OMR exam sheets — auto-alignment to 
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-ehsanur-rahman.vercel.app/api?username=sujit70777&show_icons=true&hide_border=true&theme=default&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats-ehsanur-rahman.vercel.app/api/top-langs/?username=sujit70777&layout=compact&hide_border=true&theme=default&title_color=000000&text_color=333333&bg_color=ffffff" alt="Top Languages" width="40%" />
-
-</div>
-
-<br>
 
 ## Get in Touch
 
