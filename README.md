@@ -96,7 +96,7 @@ Based in Bangladesh (UTC+6). I currently work shifted hours to overlap with a Br
 
 <div align="center">
 
-**Open to remote Senior/Lead Flutter roles — US, UK and EU teams.**
+**Open to remote Senior/Lead Mobile roles — US, UK and EU teams.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ehsanur.com-000000?style=flat-square)](https://ehsanur.com)
 [![Email](https://img.shields.io/badge/Email-mail@ehsanur.com-000000?style=flat-square)](mailto:mail@ehsanur.com)
