@@ -2,7 +2,7 @@
 
 # Ehsanur Rahman
 
-### Senior Flutter Engineer — Offline-First & Data-Sync Architecture
+### Senior Mobile Engineer — Flutter & React Native — Offline-First & Data-Sync Architecture
 
 **11 years shipping production mobile software · 50+ apps · 1M+ users · 4.7★ average**
 
@@ -18,7 +18,7 @@
 
 ## About
 
-I build Flutter apps that keep working when the network doesn't.
+I build Mobile apps that keep working when the network doesn't.
 
 Eleven years in mobile — starting in native Android, now specialising in **offline-first architecture and conflict-free data synchronisation**: the part that quietly breaks most mobile apps in the field. I've open-sourced a CRDT-based sync library for Flutter, and shipped production apps holding a 4.7 rating at 100,000+ daily active users.
 
@@ -32,14 +32,23 @@ Based in Bangladesh (UTC+6). I currently work shifted hours to overlap with a Br
 
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+"Flutter" (https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+"Dart" (https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+"React Native" (https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+"Swift" (https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+"TypeScript" (https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+"Kotlin" (https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+"Android" (https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+"iOS" (https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+"Firebase" (https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+"Supabase" (https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+"Riverpod" (https://img.shields.io/badge/Riverpod-0D47A1?style=for-the-badge&logo=flutter&logoColor=white)
+"REST API" (https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+"SQLite" (https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+"GitHub Actions" (https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+"App Store" (https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
+"Google Play" (https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
 </div>
 
