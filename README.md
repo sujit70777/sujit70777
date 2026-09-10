@@ -2,7 +2,7 @@
 
 # Ehsanur Rahman
 
-### Senior Flutter Engineer — Offline-First & Data-Sync Architecture
+### Senior Mobile Engineer — Flutter & React Native — Offline-First & Data-Sync Architecture
 
 **11 years shipping production mobile software · 50+ apps · 1M+ users · 4.7★ average**
 
@@ -18,7 +18,7 @@
 
 ## About
 
-I build flutter apps that keep working when the network doesn't.
+I build Mobile apps that keep working when the network doesn't.
 
 Eleven years in mobile — starting in native Android, now specialising in **offline-first architecture and conflict-free data synchronisation**: the part that quietly breaks most mobile apps in the field. I've open-sourced a CRDT-based sync library for Flutter, and shipped production apps holding a 4.7 rating at 100,000+ daily active users.
 
@@ -34,7 +34,9 @@ Based in Bangladesh (UTC+6). I currently work shifted hours to overlap with a Br
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React%20Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -94,7 +96,8 @@ Based in Bangladesh (UTC+6). I currently work shifted hours to overlap with a Br
 
 <div align="center">
 
-**Open to remote Senior/Lead Flutter roles — US, UK and EU teams.**
+
+**Open to remote Senior/Lead Mobile roles — Flutter & React Native — US, UK and EU teams.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ehsanur.com-000000?style=flat-square)](https://ehsanur.com)
 [![Email](https://img.shields.io/badge/Email-mail@ehsanur.com-000000?style=flat-square)](mailto:mail@ehsanur.com)
