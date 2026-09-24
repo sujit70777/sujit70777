@@ -24,7 +24,7 @@ Eleven years in mobile — starting in native Android, now specialising in **off
 
 I care about clean architecture, native platform integration (WidgetKit, App Intents, WorkManager), test discipline, and the unglamorous work of getting apps *through* App Store and Play review — not just written.
 
-Based in Bangladesh (UTC+6). I currently work shifted hours to overlap with a Brazil-based team, so adapting to US or UK business hours is routine rather than a promise. Available as an independent contractor.
+I currently work shifted hours to overlap with a Brazil-based team, so adapting to US or UK business hours is routine rather than a promise. Available for W2/B2B contract via Deel, Wise, or direct invoicing.
 
 <br>
 
