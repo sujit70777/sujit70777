@@ -19,7 +19,7 @@
 
 ## 👋 What I fix
 
-I'm a senior Flutter engineer — 7 years of Flutter inside 11 years of mobile — with native iOS, Android and macOS (Swift, SwiftUI, Kotlin). When a package can't do the job, I write the plugin or platform channel myself. I build with AI coding agents and own the architecture and code review. I fix apps that break offline, lose data on sync, fail on real-world edge cases, mishandle payments and subscriptions — and now, AI features that have to respect privacy. I own the work from architecture to App Store and Google Play release.
+I'm a Senior Mobile & Full-Stack AI Engineer — 7 years of Flutter inside 11 years of mobile — with native iOS, Android and macOS (Swift, SwiftUI, Kotlin). When a package can't do the job, I write the plugin or platform channel myself. I build with AI coding agents and own the architecture and code review. I fix apps that break offline, lose data on sync, fail on real-world edge cases, mishandle payments and subscriptions — and now, AI features that have to respect privacy. I own the work from architecture to App Store and Google Play release.
 
 <br>
 
