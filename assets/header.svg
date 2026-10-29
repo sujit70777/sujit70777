@@ -36,7 +36,7 @@
   <rect width="1200" height="300" rx="16" fill="url(#glow)"/>
   <text x="70" y="128" class="name fade d1">Ehsanur Rahman</text>
   <text x="72" y="178" class="role fade d2">Senior Flutter Engineer · Founder, Hourwise Labs</text>
-  <text x="72" y="218" class="stack fade d3">Native iOS, Android & macOS — offline-first sync, on-device AI</text>
+  <text x="72" y="218" class="stack fade d3">Native iOS, Android,  macOS — offline-first sync, on-device AI</text>
   <g>
     <path d="M 1014.0 58.1 A 92 92 0 0 1 1060.8 73.3" class="seg on" style="animation-delay:0.00s, 1.6s"/>
     <path d="M 1067.3 78.0 A 92 92 0 0 1 1096.2 117.8" class="seg on" style="animation-delay:0.35s, 1.6s"/>
